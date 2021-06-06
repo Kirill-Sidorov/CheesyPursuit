@@ -1,0 +1,173 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ClassDiagram MajorVersion="1" MinorVersion="1">
+  <Class Name="WindowsFormsView.ViewCatManagerWindowsForms" Collapsed="true">
+    <Position X="3" Y="12.25" Width="2.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAgAAAAAAgAAAAAAAAAAAAAAQAAAIAAAAAAAAAA=</HashCode>
+      <FileName>ViewGameClassesWindowsForms\ViewCatManagerWindowsForms.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="WindowsFormsView.ViewCheeseManagerWindowsForms" Collapsed="true">
+    <Position X="8" Y="12.25" Width="2.75" />
+    <TypeIdentifier>
+      <HashCode>AAABAAAAAQgAAgAAAAAIABAAAAAAAAAAIAAAAgQAAAA=</HashCode>
+      <FileName>ViewGameClassesWindowsForms\ViewCheeseManagerWindowsForms.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="WindowsFormsView.ViewPlayerWindowsFroms" Collapsed="true">
+    <Position X="5.75" Y="12.25" Width="2" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAgAAAAAACAAAAAAAQAAAIAAAAAAAAAA=</HashCode>
+      <FileName>ViewGameClassesWindowsForms\ViewPlayerWindowsFroms.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="WindowsFormsView.ControllerFactoryWindowsForms" Collapsed="true">
+    <Position X="6.25" Y="1.25" Width="2.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAEAAACEAAAAAAAAAAAAAAACAAEAAAAAA=</HashCode>
+      <FileName>ControllerFactoryWindowsForms.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="WindowsFormsView.ControllerGameWindowsForms" Collapsed="true">
+    <Position X="1" Y="3.25" Width="2.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAACAAAAAAAAAAAAAAAAAABAAAIAAAAAAAAAA=</HashCode>
+      <FileName>ControllerGameWindowsForms.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="WindowsFormsView.ControllerHelpWindowsForms" Collapsed="true">
+    <Position X="6.5" Y="3.25" Width="2.25" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAACAAAAAAAAAAAAAAAAAAAAAAIAAAAAAAAAg=</HashCode>
+      <FileName>ControllerHelpWindowsForms.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="WindowsFormsView.ControllerMenuWindowsForms" Collapsed="true">
+    <Position X="3.75" Y="3.25" Width="2.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAIAAAACAAAAAAAAAAAAAAAAAAAAAAIAAAAAAAAAA=</HashCode>
+      <FileName>ControllerMenuWindowsForms.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="WindowsFormsView.ControllerProgramWindowsForms" Collapsed="true">
+    <Position X="3.5" Y="1.25" Width="2.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>ControllerProgramWindowsForms.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="WindowsFormsView.ControllerRecordAdderWindowsForms" Collapsed="true">
+    <Position X="2.25" Y="5" Width="2.75" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAACIAAAAAAAAAAAAAAAAAAAAAIAAAAAAAAAA=</HashCode>
+      <FileName>ControllerRecordAdderWindowsForms.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="WindowsFormsView.ControllerRecordsTableWindowsForms" Collapsed="true">
+    <Position X="9" Y="3.25" Width="2.25" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAACAAAAAAAAAAAAAAAAIAAAAAIAAAAAAAAAA=</HashCode>
+      <FileName>ControllerRecordsTableWindowsForms.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="WindowsFormsView.ViewFormSingleton" Collapsed="true">
+    <Position X="5.75" Y="6" Width="2" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAABIAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>ViewFormSingleton.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="WindowsFormsView.ViewGameWindowsForms" Collapsed="true">
+    <Position X="3.5" Y="7.75" Width="2" />
+    <TypeIdentifier>
+      <HashCode>AAQAAAAAAAAAAAAIAAAIAAAgAgAEAAAAIAAAAACABAA=</HashCode>
+      <FileName>ViewGameWindowsForms.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="WindowsFormsView.ViewHelpWindowsForms" Collapsed="true">
+    <Position X="8" Y="7.75" Width="2" />
+    <TypeIdentifier>
+      <HashCode>AEAAAAAAAAAACAAAAAAAAAAAAAiEAAACAAAAAACABAA=</HashCode>
+      <FileName>ViewHelpWindowsForms.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="WindowsFormsView.ViewMenuWindowsForms" Collapsed="true">
+    <Position X="5.75" Y="7.75" Width="2" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAQAAAAACAAIAAAAACEAAgCAAAAEACABAA=</HashCode>
+      <FileName>ViewMenuWindowsForms.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="WindowsFormsView.ViewRecordAdderWindowsForms" Collapsed="true">
+    <Position X="4" Y="10" Width="2.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAACAAAAAAAAAAAAAEDEAAAAAAAAAACAQIA=</HashCode>
+      <FileName>ViewRecordAdderWindowsForms.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="WindowsFormsView.ViewRecordsTableWindowsForms" Collapsed="true">
+    <Position X="7" Y="10" Width="2.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAIAAgAAAAAAAAAAAAAAAACEAAACAAAAAACKBAA=</HashCode>
+      <FileName>ViewRecordsTableWindowsForms.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Controller.ControllerFactory" Collapsed="true">
+    <Position X="6.25" Y="0.5" Width="2.5" />
+    <TypeIdentifier />
+  </Class>
+  <Class Name="Controller.ControllerGameState" Collapsed="true">
+    <Position X="1" Y="2.5" Width="2.5" />
+    <TypeIdentifier />
+    <Lollipop Position="0.2" />
+  </Class>
+  <Class Name="Controller.ControllerHelpState" Collapsed="true">
+    <Position X="6.5" Y="2.5" Width="2.25" />
+    <TypeIdentifier />
+    <Lollipop Position="0.2" />
+  </Class>
+  <Class Name="Controller.ControllerMenuState" Collapsed="true">
+    <Position X="3.75" Y="2.5" Width="2.5" />
+    <TypeIdentifier />
+    <Lollipop Position="0.2" />
+  </Class>
+  <Class Name="Controller.ControllerProgram" Collapsed="true">
+    <Position X="3.5" Y="0.5" Width="2.5" />
+    <TypeIdentifier />
+  </Class>
+  <Class Name="Controller.ControllerRecordAdderState" Collapsed="true">
+    <Position X="2.25" Y="4.25" Width="2.75" />
+    <TypeIdentifier />
+    <Lollipop Position="0.2" />
+  </Class>
+  <Class Name="Controller.ControllerRecordsTableState" Collapsed="true">
+    <Position X="9" Y="2.5" Width="2.25" />
+    <TypeIdentifier />
+    <Lollipop Position="0.2" />
+  </Class>
+  <Class Name="View.ViewGameObject" Collapsed="true">
+    <Position X="6" Y="11" Width="1.5" />
+    <TypeIdentifier />
+  </Class>
+  <Class Name="View.ViewGame" Collapsed="true">
+    <Position X="3.5" Y="7" Width="2" />
+    <TypeIdentifier />
+    <Lollipop Position="0.2" />
+  </Class>
+  <Class Name="View.ViewHelp" Collapsed="true">
+    <Position X="8" Y="7" Width="2" />
+    <TypeIdentifier />
+    <Lollipop Position="0.2" />
+  </Class>
+  <Class Name="View.ViewMenu" Collapsed="true">
+    <Position X="5.75" Y="7" Width="2" />
+    <TypeIdentifier />
+    <Lollipop Position="0.2" />
+  </Class>
+  <Class Name="View.ViewRecord" Collapsed="true">
+    <Position X="5.75" Y="8.75" Width="2" />
+    <TypeIdentifier />
+    <Lollipop Position="0.2" />
+  </Class>
+  <Font Name="Segoe UI" Size="9" />
+</ClassDiagram>

@@ -1,0 +1,75 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="15.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <Import Project="$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props" Condition="Exists('$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props')" />
+  <PropertyGroup>
+    <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+    <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
+    <ProjectGuid>{CE283D28-D9BF-4512-8E4F-B1EC73E7B960}</ProjectGuid>
+    <OutputType>Exe</OutputType>
+    <RootNamespace>Console</RootNamespace>
+    <AssemblyName>Console</AssemblyName>
+    <TargetFrameworkVersion>v4.7.2</TargetFrameworkVersion>
+    <FileAlignment>512</FileAlignment>
+    <AutoGenerateBindingRedirects>true</AutoGenerateBindingRedirects>
+    <Deterministic>true</Deterministic>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|AnyCPU' ">
+    <PlatformTarget>AnyCPU</PlatformTarget>
+    <DebugSymbols>true</DebugSymbols>
+    <DebugType>full</DebugType>
+    <Optimize>false</Optimize>
+    <OutputPath>bin\Debug\</OutputPath>
+    <DefineConstants>DEBUG;TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|AnyCPU' ">
+    <PlatformTarget>AnyCPU</PlatformTarget>
+    <DebugType>pdbonly</DebugType>
+    <Optimize>true</Optimize>
+    <OutputPath>bin\Release\</OutputPath>
+    <DefineConstants>TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <ItemGroup>
+    <None Include="App.config" />
+    <None Include="ClassDiagramConsole.cd" />
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Include="ConsoleOutput.cs" />
+    <Compile Include="ControllerFactoryConsole.cs" />
+    <Compile Include="ControllerGameConsole.cs" />
+    <Compile Include="ControllerHelpConsole.cs" />
+    <Compile Include="ControllerMenuConsole.cs" />
+    <Compile Include="ControllerProgramConsole.cs" />
+    <Compile Include="ControllerRecordAdderConsole.cs" />
+    <Compile Include="ControllerRecordsTableConsole.cs" />
+    <Compile Include="Program.cs" />
+    <Compile Include="ViewGameClassesConsole\ViewCatManagerConsole.cs" />
+    <Compile Include="ViewGameClassesConsole\ViewCheeseManagerConsole.cs" />
+    <Compile Include="ViewGameClassesConsole\ViewPlayerConsole.cs" />
+    <Compile Include="ViewGameConsole.cs" />
+    <Compile Include="ViewHelpConsole.cs" />
+    <Compile Include="ViewMenuConsole.cs" />
+    <Compile Include="ViewRecordAdderConsole.cs" />
+    <Compile Include="ViewRecordsTableConsole.cs" />
+    <Compile Include="ViewResource.cs" />
+  </ItemGroup>
+  <ItemGroup>
+    <ProjectReference Include="..\Controller\Controller.csproj">
+      <Project>{003B9EE7-5EF3-49F1-ACE9-4C298276565C}</Project>
+      <Name>Controller</Name>
+    </ProjectReference>
+    <ProjectReference Include="..\Model\Model.csproj">
+      <Project>{4A6BC8E5-8B48-4411-8FD5-9E8850A87614}</Project>
+      <Name>Model</Name>
+    </ProjectReference>
+    <ProjectReference Include="..\View\View.csproj">
+      <Project>{1B29C458-7625-4176-BD22-2616F36EA1A2}</Project>
+      <Name>View</Name>
+    </ProjectReference>
+  </ItemGroup>
+  <ItemGroup />
+  <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
+</Project>

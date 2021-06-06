@@ -1,0 +1,65 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ClassDiagram MajorVersion="1" MinorVersion="1">
+  <Class Name="Controller.ControllerGameState" Collapsed="true">
+    <Position X="4" Y="2.75" Width="1.75" />
+    <TypeIdentifier>
+      <HashCode>BAkAAAAAACAAAAAAAAAAAAABAAAAAAARIAgAAAAAAAA=</HashCode>
+      <FileName>ControllerGameState.cs</FileName>
+    </TypeIdentifier>
+    <Lollipop Position="0.2" />
+  </Class>
+  <Class Name="Controller.ControllerProgram" Collapsed="true">
+    <Position X="7.25" Y="1.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAQgAAAQABAAAAAABAAAAAAAAgIEAABAQACRAAAQ=</HashCode>
+      <FileName>ControllerProgram.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Controller.ControllerMenuState" Collapsed="true">
+    <Position X="6" Y="2.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAEAAAAgACAAAAAAABAAAABACACAAAARIAgAAAAAAAA=</HashCode>
+      <FileName>ControllerMenuState.cs</FileName>
+    </TypeIdentifier>
+    <Lollipop Position="0.2" />
+  </Class>
+  <Class Name="Controller.ControllerHelpState" Collapsed="true">
+    <Position X="7.75" Y="2.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>gAEAAABAACAAAABAAAAAAAAAAAAAAAARIAgAAAAAAAA=</HashCode>
+      <FileName>ControllerHelpState.cs</FileName>
+    </TypeIdentifier>
+    <Lollipop Position="0.2" />
+  </Class>
+  <Class Name="Controller.ControllerFactory" Collapsed="true">
+    <Position X="9.75" Y="1" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AEEAAAAAAAAAEAAACEAAAAAAAAAAAAAAACAAEAAAAAA=</HashCode>
+      <FileName>ControllerFactory.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Controller.ControllerRecordAdderState" Collapsed="true">
+    <Position X="11.75" Y="2.75" Width="2" />
+    <TypeIdentifier>
+      <HashCode>gEEAAAAAACAAAAAAAAAAAAAAAAAAAAARIAgAAAIAAAA=</HashCode>
+      <FileName>ControllerRecordAdderState.cs</FileName>
+    </TypeIdentifier>
+    <Lollipop Position="0.2" />
+  </Class>
+  <Class Name="Controller.ControllerRecordsTableState" Collapsed="true">
+    <Position X="9.5" Y="2.75" Width="2" />
+    <TypeIdentifier>
+      <HashCode>gEEIAAAAACAAAAAAAAAAAAAAAAAAAAARIAgAAAAAAAA=</HashCode>
+      <FileName>ControllerRecordsTableState.cs</FileName>
+    </TypeIdentifier>
+    <Lollipop Position="0.2" />
+  </Class>
+  <Interface Name="Controller.IControllerState" Collapsed="true">
+    <Position X="7.25" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAACAAAAAAAAAAAAAAAAAAAAARIAgAAAAAAAA=</HashCode>
+      <FileName>IControllerState.cs</FileName>
+    </TypeIdentifier>
+  </Interface>
+  <Font Name="Segoe UI" Size="9" />
+</ClassDiagram>

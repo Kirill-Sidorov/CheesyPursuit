@@ -1,0 +1,173 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ClassDiagram MajorVersion="1" MinorVersion="1">
+  <Class Name="Console.ViewGameClassesConsole.ViewCatManagerConsole" Collapsed="true">
+    <Position X="3.25" Y="13.5" Width="2" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAgAAAAAAgAgAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>ViewGameClassesConsole\ViewCatManagerConsole.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Console.ViewGameClassesConsole.ViewCheeseManagerConsole" Collapsed="true">
+    <Position X="5.5" Y="13.5" Width="2.5" />
+    <TypeIdentifier>
+      <HashCode>AAQAAAAAAAAAAgAAAAAAAAAAAAAAAAABAAAAAAQAAAA=</HashCode>
+      <FileName>ViewGameClassesConsole\ViewCheeseManagerConsole.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Console.ViewGameClassesConsole.ViewPlayerConsole" Collapsed="true">
+    <Position X="8.25" Y="13.5" Width="1.75" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAgCAAAAACAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>ViewGameClassesConsole\ViewPlayerConsole.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Console.ConsoleOutput" Collapsed="true">
+    <Position X="5.75" Y="7.25" Width="1.75" />
+    <TypeIdentifier>
+      <HashCode>AAAAACACAACAAQAAAAQAAAAAABAAAAAAAAAAiAFAAAA=</HashCode>
+      <FileName>ConsoleOutput.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Console.ControllerFactoryConsole" Collapsed="true">
+    <Position X="9.75" Y="1.25" Width="2.25" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAEAAACEAAAAAAAAAAAAAAACAAEAAAAAA=</HashCode>
+      <FileName>ControllerFactoryConsole.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Console.ControllerGameConsole" Collapsed="true">
+    <Position X="5" Y="3.25" Width="2" />
+    <TypeIdentifier>
+      <HashCode>AAAIAAAAACAAAABAAIAAAAAAAAAAAAAAIAAAAAAAAAA=</HashCode>
+      <FileName>ControllerGameConsole.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Console.ControllerHelpConsole" Collapsed="true">
+    <Position X="9.5" Y="3.25" Width="2" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAACAAAAAAAAAAAAAIAAAAAAAAIAAAAAAAAAA=</HashCode>
+      <FileName>ControllerHelpConsole.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Console.ControllerMenuConsole" Collapsed="true">
+    <Position X="7.25" Y="3.25" Width="2" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAACAAAAAAAAAAAAAAAAAAAAAAIAAAAAAIAAA=</HashCode>
+      <FileName>ControllerMenuConsole.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Console.ControllerRecordAdderConsole" Collapsed="true">
+    <Position X="6" Y="5" Width="2.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAACAAAAAAAAAAAAAAAAAAgAAAIAAAAAAAAAA=</HashCode>
+      <FileName>ControllerRecordAdderConsole.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Console.ControllerProgramConsole" Collapsed="true">
+    <Position X="7.25" Y="1.25" Width="2.25" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>ControllerProgramConsole.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Console.ControllerRecordsTableConsole" Collapsed="true">
+    <Position X="11.75" Y="3.25" Width="2.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAACAAAAgAAAAAAAAAAAAAAAAAIAAAAAAAAAA=</HashCode>
+      <FileName>ControllerRecordsTableConsole.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Console.ViewGameConsole" Collapsed="true">
+    <Position X="3.75" Y="9" Width="1.75" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAIAAQAAAAgAAAEAAAAAAAAAACAAAA=</HashCode>
+      <FileName>ViewGameConsole.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Console.ViewHelpConsole" Collapsed="true">
+    <Position X="7.75" Y="9" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAgEAAAAAAAAAACAAAA=</HashCode>
+      <FileName>ViewHelpConsole.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Console.ViewMenuConsole" Collapsed="true">
+    <Position X="5.75" Y="9" Width="1.75" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAIAAAAAAEAAAAAAAAEACAAAA=</HashCode>
+      <FileName>ViewMenuConsole.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Console.ViewRecordAdderConsole" Collapsed="true">
+    <Position X="4.5" Y="11.25" Width="2" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAACAAAAAEAAAAAAAAAACAAAA=</HashCode>
+      <FileName>ViewRecordAdderConsole.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Console.ViewRecordsTableConsole" Collapsed="true">
+    <Position X="6.75" Y="11.25" Width="2" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAIAAAAAAAAAAAAAAAAAAAAEAAAAAAAAAACAAAA=</HashCode>
+      <FileName>ViewRecordsTableConsole.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Controller.ControllerFactory" Collapsed="true">
+    <Position X="9.75" Y="0.5" Width="2.25" />
+    <TypeIdentifier />
+  </Class>
+  <Class Name="Controller.ControllerGameState" Collapsed="true">
+    <Position X="5" Y="2.5" Width="2" />
+    <TypeIdentifier />
+    <Lollipop Position="0.2" />
+  </Class>
+  <Class Name="Controller.ControllerHelpState" Collapsed="true">
+    <Position X="9.5" Y="2.5" Width="2" />
+    <TypeIdentifier />
+    <Lollipop Position="0.2" />
+  </Class>
+  <Class Name="Controller.ControllerMenuState" Collapsed="true">
+    <Position X="7.25" Y="2.5" Width="2" />
+    <TypeIdentifier />
+    <Lollipop Position="0.2" />
+  </Class>
+  <Class Name="Controller.ControllerProgram" Collapsed="true">
+    <Position X="7.25" Y="0.5" Width="2.25" />
+    <TypeIdentifier />
+  </Class>
+  <Class Name="Controller.ControllerRecordAdderState" Collapsed="true">
+    <Position X="6" Y="4.25" Width="2.5" />
+    <TypeIdentifier />
+    <Lollipop Position="0.2" />
+  </Class>
+  <Class Name="Controller.ControllerRecordsTableState" Collapsed="true">
+    <Position X="11.75" Y="2.5" Width="2.5" />
+    <TypeIdentifier />
+    <Lollipop Position="0.2" />
+  </Class>
+  <Class Name="View.ViewGameObject" Collapsed="true">
+    <Position X="6" Y="12.25" Width="1.5" />
+    <TypeIdentifier />
+  </Class>
+  <Class Name="View.ViewGame" Collapsed="true">
+    <Position X="3.75" Y="8.25" Width="1.75" />
+    <TypeIdentifier />
+    <Lollipop Position="0.2" />
+  </Class>
+  <Class Name="View.ViewHelp" Collapsed="true">
+    <Position X="7.75" Y="8.25" Width="1.5" />
+    <TypeIdentifier />
+    <Lollipop Position="0.2" />
+  </Class>
+  <Class Name="View.ViewMenu" Collapsed="true">
+    <Position X="5.75" Y="8.25" Width="1.75" />
+    <TypeIdentifier />
+    <Lollipop Position="0.2" />
+  </Class>
+  <Class Name="View.ViewRecord" Collapsed="true">
+    <Position X="5.75" Y="10" Width="1.75" />
+    <TypeIdentifier />
+    <Lollipop Position="0.2" />
+  </Class>
+  <Font Name="Segoe UI" Size="9" />
+</ClassDiagram>
